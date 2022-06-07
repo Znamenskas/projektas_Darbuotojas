@@ -1,0 +1,15 @@
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/projektasDarbuotojas.deps.json
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/projektasDarbuotojas.runtimeconfig.json
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/projektasDarbuotojas.runtimeconfig.dev.json
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/projektasDarbuotojas.dll
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/ref/projektasDarbuotojas.dll
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/bin/Debug/net5.0/projektasDarbuotojas.pdb
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.csproj.AssemblyReference.cache
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.AssemblyInfoInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.AssemblyInfo.cs
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.csproj.CoreCompileInputs.cache
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.dll
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/ref/projektasDarbuotojas.dll
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.pdb
+/Users/rasamikuleviciene/Desktop/mano/projektasDarbuotojas/pirmauzduotis/projektasDarbuotojas/obj/Debug/net5.0/projektasDarbuotojas.genruntimeconfig.cache
