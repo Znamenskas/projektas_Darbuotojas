@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5C030ACC-D241-477B-9300-083F6F5B9670}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="projektasDarbuotojas/Program.cs">
     <Files>
-      <File FileName="projektasDarbuotojas/Program.cs" Line="52" Column="1" />
-      <File FileName="projektasDarbuotojas/Darbuotojas.cs" />
+      <File FileName="projektasDarbuotojas/Program.cs" Line="65" Column="64" />
+      <File FileName="projektasDarbuotojas/Darbuotojas.cs" Line="31" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.projektasDarbuotojas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.projektasDarbuotojas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

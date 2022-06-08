@@ -14,57 +14,71 @@ namespace projektasDarbuotojas
             darbuotojas1 = NuskaitytiDarbuotojas();
 
             IsvestiDarbuotoja(darbuotojas1);
+        }
+            
 
             // SUSIKURIU PAPYLDOMA FUNKCIJA IR NUSKAITYTI VIENA DARBUOTOJO OBJEKTA IR JI GRAZINTI.
         static Darbuotojas NuskaitytiDarbuotojas()
             {
                 Darbuotojas darbuotojas = new Darbuotojas();
-                Console.WriteLine("Ivesti Darbuotoja: ");
-                string pavadinimas = Console.ReadLine();
-                darbuotojas.Vardas = pavadinimas;
+                Console.WriteLine("Ivesti Darbuotojas: ");
+              
+                
+
+                Console.WriteLine("Vardas: ");
+                string vardas = Console.ReadLine();
+                darbuotojas.Vardas = vardas;
+
+                Console.WriteLine("Pavarde: ");
+                string pavarde = Console.ReadLine();
+                darbuotojas.Pavarde = pavarde;
+
+                Console.WriteLine("Amzius: ");
+                int amzius = Convert.ToInt32(Console.ReadLine());
+                darbuotojas.Amzius = amzius;
+
+                Console.WriteLine("Lytis:");
+                string lytis = Console.ReadLine();
+                darbuotojas.Lytis = lytis;
+
+                Console.WriteLine("Profesija: ");
+                string profesija = Console.ReadLine();
+                darbuotojas.Profesija = profesija;
+
+                Console.WriteLine("Atlyginimas: ");
+                double atlyginimas = Convert.ToDouble(Console.ReadLine());
+                darbuotojas.Atlyginimas = atlyginimas;
+
+                Console.WriteLine("Darbo valandos: ");
+                int darboValandos = Convert.ToInt32(Console.ReadLine());
+                darbuotojas.DarboValandos = darboValandos;
+
+                Console.WriteLine("Valandos Ikainis: ");
+                double valandosIkainis = Convert.ToDouble(Console.ReadLine());
+                darbuotojas.ValandosIkainis = valandosIkainis;
+
+
 
                 return darbuotojas;
-            }
-
-        static void IsvestiDarbuotoja(Darbuotojas darbuotojas)
-            {
-                Console.WriteLine("Vardas: " + darbuotojas.Vardas);
-                Console.WriteLine("Pavarde: " + darbuotojas.Pavarde);
-                Console.WriteLine("Amzius: " + darbuotojas.Amzius);
-                Console.WriteLine("Lytis: " + darbuotojas.Lytis);
-                Console.WriteLine("Profesija: " + darbuotojas.Profesija);
-                Console.WriteLine("Atlyginimas: " + darbuotojas.Atlyginimas);
-                Console.WriteLine("Darbo valandos: " + darbuotojas.DarboValandos);
-                Console.WriteLine("Valandos ikainis: " + darbuotojas.ValandosIkainis);
-
-                Console.WriteLine("_ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ _ _");
-            }    
-
-
-            // sukuriu tuscia objekta Darbuotojas
-            Darbuotojas darbuotojas = new Darbuotojas();
-
-            // Bandau isvesti i konsole.
-            //Console.WriteLine(darbuotojas.ToString());
-
-            // Sukuriu pilna objekta Darbuotojas
-
-            Darbuotojas darbuotojas2 = new Darbuotojas("Vilandas", "Znamenskas", 54, "Vyras", "Programuotojas", 1920, 160, 12);
-
-            // Isvedu pilna objekta i Darbuotojas i konsole.
-           // Console.WriteLine(darbuotojas2.ToString());
-
-            // Gaunu po viena objekto Darbuotojas duomeni ir ji isvedu i konsole.
-
-            Console.WriteLine("Vardas:" + darbuotojas2.Vardas);
-            Console.WriteLine("Pavarde:" + darbuotojas2.Pavarde);
-            Console.WriteLine("Amzius:" + darbuotojas2.Amzius);
-            Console.WriteLine("Lytis:" + darbuotojas2.Lytis);
-            Console.WriteLine("Profesija:" + darbuotojas2.Profesija);
-            Console.WriteLine("Atlyginimas:" + darbuotojas2.Atlyginimas);
-            Console.WriteLine("Darbo valandos:" + darbuotojas2.DarboValandos);
-            Console.WriteLine("Valandos ikainis:" + darbuotojas2.ValandosIkainis);
         }
+
+        static void IsvestiDarbuotoja(Darbuotojas darbuotojas1)
+        {
+            Console.WriteLine("Vardas: " + darbuotojas1.Vardas);
+            Console.WriteLine("Pavarde: " + darbuotojas1.Pavarde);
+            Console.WriteLine("Amzius: " + darbuotojas1.Amzius);
+            Console.WriteLine("Lytis: " + darbuotojas1.Lytis);
+            Console.WriteLine("Profesija: " + darbuotojas1.Profesija);
+            Console.WriteLine("Atlyginimas: " + darbuotojas1.Atlyginimas);
+            Console.WriteLine("Darbo valandos: " + darbuotojas1.DarboValandos);
+            Console.WriteLine("Valandos ikainis: " + darbuotojas1.ValandosIkainis);
+
+            
+        }    
+
+
+            
+    }
         
 
 
@@ -76,7 +90,7 @@ namespace projektasDarbuotojas
 
 
 
-    }
+    
 }
         
 
